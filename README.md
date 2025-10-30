@@ -1,9 +1,3 @@
-Here is the complete, final README text with all Markdown formatting included.
-
-You can copy everything below this line and paste it directly into the `README.md` file on GitHub.
-
------
-
 # The LLM Team Composition Paradox: Why the Right Team Isn't Always Diverse: Developing a Contingency Model on the ARC-AGI Benchmark with an OODA-Belbin Framework Inspired by Multicultural Human Teams
 
 This repository contains the official code for the research paper: **"The LLM Team Composition Paradox: Why the Right Team Isn't Always Diverse: Developing a Contingency Model on the ARC-AGI Benchmark with an OODA-Belbin Framework Inspired by Multicultural Human Teams"**.
