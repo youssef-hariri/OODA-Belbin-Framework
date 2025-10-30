@@ -1,0 +1,8 @@
+Condition,Total successful attempts,Ghost problems solved (Problem ID 025d127b),Outcome
+Adaptive_CP-ATS_Budget_Pool,29,0,NA
+Adaptive_CP-ATS_Fixed_Cycle,25,0,NA
+Baseline_Single_Agent,33,1,Failure
+Baseline_Static_Heterogeneous,32,1,Failure
+Baseline_Static_Homogeneous,28,0,NA
+CP-ATS_Static,30,1,Failure
+Overall,177,3,NA

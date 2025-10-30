@@ -1,0 +1,8 @@
+Condition,Total successful attempts when V1 is available for the problem and different from V2,Contaminated data,Percentage of contamination
+Adaptive_CP-ATS_Budget_Pool,7,5,71.4285714285714
+Adaptive_CP-ATS_Fixed_Cycle,5,3,60
+Baseline_Single_Agent,9,6,66.6666666666667
+Baseline_Static_Heterogeneous,6,4,66.6666666666667
+Baseline_Static_Homogeneous,6,3,50
+CP-ATS_Static,8,4,50
+Overall,41,25,60.9756097560976

@@ -1,0 +1,8 @@
+Condition,Real successful attempts,High quality solutions (Optimal & Robust and Optimal & Parsimonious),Percentage of high quality solutions
+Adaptive_CP-ATS_Budget_Pool,14,12,85.7142857142857
+Adaptive_CP-ATS_Fixed_Cycle,16,15,93.75
+Baseline_Single_Agent,20,16,80
+Baseline_Static_Heterogeneous,23,21,91.304347826087
+Baseline_Static_Homogeneous,18,15,83.3333333333333
+CP-ATS_Static,17,16,94.1176470588235
+Overall,108,95,87.962962962963

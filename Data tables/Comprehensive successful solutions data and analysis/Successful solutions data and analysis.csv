@@ -1,0 +1,178 @@
+Problem ID,Problem type,Framework,Experiment name,Outcome,Problem Version Solved,Is Generalizable?,Quality / Anomaly
+576224,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,Baseline_Single_Agent,Initial 5 problems pilot,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,Initial 5 problems pilot,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,CP-ATS,Initial 5 problems pilot,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+576224,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+5269061,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+22168020,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V1,TRUE,False Positive Success driven by data contamination
+009d5c81,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,Initial 5 problems pilot,Failure,ARC-AGI-V1,FALSE,Simplistic Overfitting
+009d5c81,Holistic Abstract Reasoning,Baseline_Single_Agent,Initial 5 problems pilot,Failure,ARC-AGI-V2,FALSE,Hallucinated & Convoluted Logic
+009d5c81,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V2,FALSE,Sophisticated but Flawed Generalization
+009d5c81,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,Initial 5 problems pilot,Failure,ARC-AGI-V2,FALSE,Hallucinated Logic with a Strong Numerical Bias
+009d5c81,Holistic Abstract Reasoning,CP-ATS,120 experiment,Failure,ARC-AGI-V2,FALSE,Simplistic Overfitting
+00d62c1b,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V1,TRUE,Optimal & Robust
+00d62c1b,Cognitive Labyrinth,Baseline_Static_Heterogeneous,Initial 5 problems pilot,Success,ARC-AGI-V1,TRUE,Optimal & Robust
+00d62c1b,Cognitive Labyrinth,Baseline_Static_Homogeneous,Initial 5 problems pilot,Failure,ARC-AGI-V1,FALSE,Brittle Solution due to Flawed Implementation
+00d62c1b,Cognitive Labyrinth,CP-ATS,Initial 5 problems pilot,Success,ARC-AGI-V1,TRUE,Optimal & Robust
+00dbd492,Local Geometric Analysis,Baseline_Static_Heterogeneous,Initial 5 problems pilot,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solution based on Flawed Heuristics
+00dbd492,Local Geometric Analysis,Baseline_Static_Homogeneous,Initial 5 problems pilot,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solution with flawed numerical rules
+025d127b,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V1,FALSE,Catastrophic oversimplification
+025d127b,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution due to Flawed Implementation
+025d127b,Local Geometric Analysis,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution due to Flawed Implementation
+0520fde7,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V1,FALSE,Logically Correct but Brittle (Hardcoded dimensions)
+0520fde7,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V1,TRUE,Optimal & Robust
+0520fde7,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V1,TRUE,Optimal & Robust
+0520fde7,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution based on Hallucinated Logic
+0520fde7,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution based on Hallucinated Logic
+0520fde7,Direct Procedure,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V1,FALSE,Logically Correct but Brittle (Hardcoded dimensions)
+070dd51e,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient
+070dd51e,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions based on Oversimplification
+070dd51e,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient
+070dd51e,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+070dd51e,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions based on Oversimplification
+070dd51e,Direct Procedure,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions based on Oversimplification
+08ed6ac7,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V1,FALSE,Highly brittle solution (Solved wrong version)
+08ed6ac7,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution (Solved wrong version)
+08ed6ac7,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle and flawed implementation (Solved wrong version)
+08ed6ac7,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution (Solved wrong version)
+08ed6ac7,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+08ed6ac7,Local Geometric Analysis,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0962bcdd,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0962bcdd,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle Solution (Hardcoded colors)
+0a938d79,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Overly Complex Solutions
+0a938d79,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Overly Complex Solutions
+0a938d79,Cognitive Labyrinth,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Fundamentally Broken Solution (Incorrect heuristics)
+0a938d79,Cognitive Labyrinth,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0a938d79,Cognitive Labyrinth,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0a938d79,Cognitive Labyrinth,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0becf7df,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle Solution due to Hallucinated Logic (Hardcoded color swaps)
+0c786b71,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0c786b71,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0c786b71,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0c786b71,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0c786b71,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0c786b71,Direct Procedure,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0ca9ddb6,Cognitive Labyrinth,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0d3d703e,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0d3d703e,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0d3d703e,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0d3d703e,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle & Non-Generalizable Solution (Overfitted to test case)
+0d3d703e,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0d3d703e,Local Geometric Analysis,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+0e671a1a,Cognitive Labyrinth,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+12997ef3,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle Solution based on Hallucinated Logic
+12997ef3,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+140c817e,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+140c817e,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+140c817e,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Logically Broken Solution (Hallucinated Logic)
+140c817e,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+140c817e,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Flawed Implementation (Bug in logic)
+140c817e,Local Geometric Analysis,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Flawed Implementation (Bug in logic)
+178fcbfb,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions (Failure to Generalize Meta-Rules)
+178fcbfb,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions (Failure to Generalize Meta-Rules)
+178fcbfb,Direct Procedure,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions (Failure to Generalize Meta-Rules)
+178fcbfb,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+178fcbfb,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle Solutions (Failure to Generalize Meta-Rules)
+1818057f,Local Geometric Analysis,Baseline_Static_Heterogeneous,5 runs experiment,Failure,ARC-AGI-V2,FALSE,Cognitive Tunnel Vision (Incorrectly identified pattern)
+195ba7dc,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Final Step' Failure Anomaly (Hardcoded output size)
+195ba7dc,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+195ba7dc,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+195ba7dc,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Final Step' Failure Anomaly (Hardcoded output size)
+195ba7dc,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Final Step' Failure Anomaly (Hardcoded output size)
+195ba7dc,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+19bb5feb,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Final Step' Failure Anomaly (Flawed sorting logic)
+19bb5feb,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Flawed Solutions (Non-generalizable sorting logic)
+19bb5feb,Cognitive Labyrinth,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Brittle & Flawed Solutions (Non-generalizable sorting logic)
+19bb5feb,Cognitive Labyrinth,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+19bb5feb,Cognitive Labyrinth,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Logically Broken Solution (Hallucinated Logic)
+19bb5feb,Cognitive Labyrinth,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Final Step' Failure Anomaly (Flawed sorting logic)
+1a2e2828,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2,TRUE,Robust but Over-Specified / Redundant Constraint
+1a2e2828,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2,TRUE,Robust but Over-Specified / Redundant Constraint
+1a2e2828,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2,TRUE,Robust but Over-Specified / Redundant Constraint
+1a2e2828,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Parsimonious
+1a2e2828,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Parsimonious
+1a2e2828,Local Geometric Analysis,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle & Overly Complex Solution (Confused logic)
+1acc24af,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1acc24af,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1acc24af,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1acc24af,Direct Procedure,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1b2d62fb,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V1,FALSE,'Final Step' Failure Anomaly (Hardcoded output size)
+1b2d62fb,Local Geometric Analysis,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V1,FALSE,'Final Step' Failure Anomaly (Hardcoded output size)
+1bfc4729,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Overthinking' Failure Anomaly (Hallucinated procedural rule)
+1bfc4729,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,'Overthinking' Failure Anomaly (Hallucinated procedural rule)
+1bfc4729,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1bfc4729,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1bfc4729,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1bfc4729,Local Geometric Analysis,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1c786137,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V1,TRUE,False Positive Success
+1cf80156,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1cf80156,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1cf80156,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1cf80156,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1cf80156,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1cf80156,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1d398264,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V1,FALSE,False Positive / Brittle Solution
+1d61978c,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Ambiguity Avoidance Anomaly (Failed to handle edge case)
+1d61978c,Local Geometric Analysis,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Ambiguity Avoidance Anomaly (Failed to handle edge case)
+1d61978c,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Ambiguity Avoidance Anomaly (Failed to handle edge case)
+1d61978c,Local Geometric Analysis,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1d61978c,Local Geometric Analysis,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Ambiguity Avoidance Anomaly (Failed to handle edge case)
+1d61978c,Local Geometric Analysis,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Ambiguity Avoidance Anomaly (Failed to handle edge case)
+1e0a9b12,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1e0a9b12,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1e0a9b12,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1e0a9b12,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1e0a9b12,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,TRUE,'Implementer' Bias Anomaly (Logically flawed & inefficient)
+1e0a9b12,Direct Procedure,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1f642eb9,Direct Procedure,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Single Agent Cognitive Cliff (Hallucinated logic)
+1f642eb9,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1f642eb9,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient & Convoluted
+1f642eb9,Direct Procedure,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Simplistic Heuristic Failure
+1f85a75f,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1f85a75f,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2,FALSE,Single Agent's Cognitive Cliff (Reporting Anomaly)
+1f85a75f,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust
+1f85a75f,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2,FALSE,Missing Constraint Failure (Bug in logic)
+1fad071e,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1fad071e,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1fad071e,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+1fad071e,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2013d3e2,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Edge Case Neglect Anomaly (Brittle solution)
+2013d3e2,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Edge Case Neglect Anomaly (Brittle solution)
+2013d3e2,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Edge Case Neglect Anomaly (Brittle solution)
+2013d3e2,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2013d3e2,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Edge Case Neglect Anomaly (Brittle solution)
+2013d3e2,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Edge Case Neglect Anomaly (Brittle solution)
+2072aba6,Cognitive Labyrinth,Adaptive_CP-ATS_Budget_Pool,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2072aba6,Cognitive Labyrinth,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2072aba6,Cognitive Labyrinth,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2072aba6,Cognitive Labyrinth,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2072aba6,Cognitive Labyrinth,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2072aba6,Cognitive Labyrinth,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+21f83797,Holistic Abstract Reasoning,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Cost of Complexity (Brittle & flawed heuristic)
+21f83797,Holistic Abstract Reasoning,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+21f83797,Holistic Abstract Reasoning,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Failure of Holistic Detail (Critical bug)
+21f83797,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient & Convoluted
+21f83797,Holistic Abstract Reasoning,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient & Convoluted
+21f83797,Holistic Abstract Reasoning,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Correct but Inefficient & Convoluted
+2204b7a8,Local Geometric Analysis,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2,FALSE,Brittle Solution (Overfitted to orientation)
+2204b7a8,Local Geometric Analysis,Baseline_Single_Agent,120 experiment,Failure,ARC-AGI-V1,FALSE,Brittle Solution for the wrong problem (Data Contamination)
+2281f1f4,Direct Procedure,Adaptive_CP-ATS_Budget_Pool,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Over-generalization Anomaly (Less specific rule)
+2281f1f4,Direct Procedure,Adaptive_CP-ATS_Fixed_Cycle,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2281f1f4,Direct Procedure,Baseline_Single_Agent,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2281f1f4,Direct Procedure,Baseline_Static_Heterogeneous,120 experiment,Failure,ARC-AGI-V2/V1,FALSE,Over-generalization Anomaly (Less specific rule)
+2281f1f4,Direct Procedure,Baseline_Static_Homogeneous,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+2281f1f4,Direct Procedure,CP-ATS_Static,120 experiment,Success,ARC-AGI-V2/V1,TRUE,Optimal & Robust
+7b5033c1,Holistic Abstract Reasoning,Baseline_Static_Heterogeneous,5 runs experiment,Success,ARC-AGI-V2,TRUE,Optimal & Robust

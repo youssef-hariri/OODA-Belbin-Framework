@@ -1,0 +1,8 @@
+Condition,Total successful attempts,Real successful attempts,Percentage of real successful attempts
+Adaptive_CP-ATS_Budget_Pool,29,14,48.2758620689655
+Adaptive_CP-ATS_Fixed_Cycle,25,16,64
+Baseline_Single_Agent,33,20,60.6060606060606
+Baseline_Static_Heterogeneous,32,23,71.875
+Baseline_Static_Homogeneous,28,17,60.7142857142857
+CP-ATS_Static (add note about combining CP-ATS with it),30,17,56.6666666666667
+Overall,177,107,60.4519774011299

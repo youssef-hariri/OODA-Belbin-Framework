@@ -1,0 +1,8 @@
+Condition,Real success
+Adaptive_CP-ATS_Budget_Pool,13
+Adaptive_CP-ATS_Fixed_Cycle,16
+Baseline_Single_Agent,17
+Baseline_Static_Heterogeneous,21
+Baseline_Static_Homogeneous,15
+CP-ATS_Static,15
+Total unique successes,30

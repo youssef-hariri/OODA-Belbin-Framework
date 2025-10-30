@@ -1,0 +1,7 @@
+Condition,Percentage of real successful attempts,Percentage of high quality solutions,Percentage of contamination,Percentage of Data integrity (100 - contamination)
+Adaptive_CP-ATS_Budget_Pool,48.3,85.7,71.4,28.6
+Adaptive_CP-ATS_Fixed_Cycle,64,93.8,60,40
+Baseline_Single_Agent,58.8,80,70,30
+Baseline_Static_Heterogeneous,69.7,91.3,57.1,42.9
+Baseline_Static_Homogeneous,60.7,83.3,50,50
+CP-ATS_Static,56.7,94.1,50,50
