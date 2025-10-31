@@ -6,8 +6,6 @@ This repository contains the official code for the research paper: **"The LLM Te
 
 The experiment investigates the optimal team architecture for Large Language Model (LLM) agents tasked with solving complex "wicked problems" from the Abstraction and Reasoning Corpus (ARC).
 
-[Link to Full Paper (Coming Soon)]
-
 ## 📖 Abstract & Key Findings
 
 This research challenges the prevailing assumption that architecturally complex, diverse, or adaptive teams are universally superior for problem-solving. The central finding is a **data-driven contingency model**, which demonstrates that the optimal agentic architecture is contingent on the *type* of problem being solved.
