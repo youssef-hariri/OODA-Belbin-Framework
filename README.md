@@ -1,4 +1,6 @@
 # The LLM Team Composition Paradox: Why the Right Team Isn't Always Diverse: Developing a Contingency Model on the ARC-AGI Benchmark with an OODA-Belbin Framework Inspired by Multicultural Human Teams
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17490945.svg)](https://doi.org/10.5281/zenodo.17490945)
+
 
 This repository contains the official code for the research paper: **"The LLM Team Composition Paradox: Why the Right Team Isn't Always Diverse: Developing a Contingency Model on the ARC-AGI Benchmark with an OODA-Belbin Framework Inspired by Multicultural Human Teams"**.
 
